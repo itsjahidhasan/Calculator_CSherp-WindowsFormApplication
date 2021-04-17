@@ -60,6 +60,8 @@ namespace Calculator
         {
             richTextBox1.Text = "0";
             result = 0;
+            label2.Text = "";
+
 
         }
 
@@ -68,15 +70,20 @@ namespace Calculator
             switch(operation)
             {
                 case "+":
+                    label2.Text = label2.Text + richTextBox1.Text;
                     richTextBox1.Text = (result + Double.Parse(richTextBox1.Text)).ToString();
+                    
                     break;
                 case "-":
+                    label2.Text = label2.Text + richTextBox1.Text;
                     richTextBox1.Text = (result - Double.Parse(richTextBox1.Text)).ToString();
                     break;
                 case "X":
+                    label2.Text = label2.Text + richTextBox1.Text;
                     richTextBox1.Text = (result * Double.Parse(richTextBox1.Text)).ToString();
                     break;
                 case "/":
+                    label2.Text = label2.Text + richTextBox1.Text;
                     richTextBox1.Text = (result / Double.Parse(richTextBox1.Text)).ToString();
                     break;
                 default:

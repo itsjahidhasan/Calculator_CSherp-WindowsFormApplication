@@ -8,3 +8,13 @@ C:\Users\Asus\OneDrive\Desktop\Calculator\obj\Debug\Calculator.csproj.GenerateRe
 C:\Users\Asus\OneDrive\Desktop\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Asus\OneDrive\Desktop\Calculator\obj\Debug\Calculator.exe
 C:\Users\Asus\OneDrive\Desktop\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\bin\Debug\Calculator.exe.config
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\bin\Debug\Calculator.exe
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\bin\Debug\Calculator.pdb
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.Calculator.resources
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.exe
+C:\Users\Asus\OneDrive\Desktop\Calculator_C_Sharp-WindowsFormApplication\obj\Debug\Calculator.pdb

@@ -583,7 +583,7 @@
     <value>238, 149</value>
   </data>
   <data name="buttonCE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 47</value>
+    <value>56, 47</value>
   </data>
   <data name="buttonCE.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -613,7 +613,7 @@
     <value>238, 202</value>
   </data>
   <data name="buttonC.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 47</value>
+    <value>56, 47</value>
   </data>
   <data name="buttonC.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -643,7 +643,7 @@
     <value>238, 255</value>
   </data>
   <data name="buttonEqual.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 103</value>
+    <value>56, 103</value>
   </data>
   <data name="buttonEqual.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -733,7 +733,7 @@
     <value>8, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>308, 378</value>
+    <value>324, 378</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
